@@ -1,0 +1,53 @@
+{
+  "manifest_version": 2,
+  "name": "Piano: the business platform for digital media",
+  "short_name": "Piano",
+  "description": "Piano is used by the world’s leading media and content companies to drive engagement, loyalty, and revenue",
+  "version": "2.0",
+  "default_locale": "en",
+
+  "icons": [
+    {
+      "src": "wp-content/themes/piano/frontend/images/favicon/favicon.ico",
+      "sizes": "48x48"
+    },
+    {
+      "src": "wp-content/themes/piano/frontend/images/favicon/favicon.ico-16x16",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "wp-content/themes/piano/frontend/images/favicon/favicon.ico-32x32",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "wp-content/themes/piano/frontend/images/favicon/mstile-150x150.png",
+      "sizes": "150x150",
+      "type": "image/png"
+    },
+    {
+      "src": "wp-content/themes/piano/frontend/images/favicon/safari-pinned-tab.svg",
+      "type": "image/svg"
+    },
+    {
+      "src": "wp-content/themes/piano/frontend/images/favicon/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "wp-content/themes/piano/frontend/images/favicon/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "wp-content/themes/piano/frontend/images/favicon/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ],
+
+  "omnibox": {
+    "keyword": "piano"
+  }
+}
